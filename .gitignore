@@ -8,6 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+temp_auto_push.bat
 
 .gradio
 
@@ -18,4 +19,5 @@ wheels/
 
 .ruff_cache
 .ipynb_checkpoints
-config.json
+config.json.gitignore
+branch_structure.json
